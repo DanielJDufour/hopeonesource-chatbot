@@ -6,3 +6,6 @@ This is a chatbot that helps homeless people get connected with services in a ti
 
 # install dependencies
 `pip install -r requirements.txt`
+
+# environmental variables
+| VERIFY_TOKEN |

@@ -63,16 +63,4 @@ typings/
 # distribution
 dist
 
-# esri json files
-test/data/gadm/arcgis/*.json
-
-# geojson files
-*.geojson
-
-# shapefile
-*.cpg
-*.dbf
-*.shp
-*.shx
-*.prj
-*.zip
+secrets.json
